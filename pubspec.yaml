@@ -45,4 +45,4 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-    - assets/disco.png
+    - assets/disco.mp3
